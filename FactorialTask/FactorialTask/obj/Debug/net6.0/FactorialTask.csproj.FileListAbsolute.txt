@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.exe
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.deps.json
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.runtimeconfig.json
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.dll
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\bin\Debug\net6.0\FactorialTask.pdb
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.dll
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\refint\FactorialTask.dll
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.pdb
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\FactorialTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\C# 27.07\FactorialTask\FactorialTask\obj\Debug\net6.0\ref\FactorialTask.dll
